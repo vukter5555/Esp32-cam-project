@@ -1,4 +1,4 @@
-# Esp32-cam-project
+# Esp32-cam project for VMKS
 
 This project is a simple smart watching system built with an ESP32-CAM, a PIR motion sensor, and battery power.
 
